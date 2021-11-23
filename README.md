@@ -7,11 +7,11 @@
   "_comment3": "Backup/failover stratum used in case of connection problems",
   "url-backup": "stratum+tcp4://us.flockpool.com:4444",
 
-  "user": "RWhxqqbrpFnyQDK8HXecgNuYtGWqcnaHeS.medo1",
+  "user": "RWhxqqbrpFnyQDK8HXecgNuYtGWqcnaHeS.medo2",
   "pass": "x",
 
   "algo": "gr",
-  "threads": 0,
+  "threads": 12,
   "cpu-priority": 0,
   "cpu-affinity": -1,
 
