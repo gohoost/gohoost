@@ -2,7 +2,7 @@
     {
         "pool_address": "fastpool.xyz:3034",
         "wallet_address": "Safex61Ap8nJ9m9P2RyBZB8tKAyNN51Kk8e4X7q3cAzsekoJ3RqbHgX1mP1gtLNToA8CsKo7eagHSe3LsrPWS3wMCQPPe67n4yu4J@medo474",
-        "rig_id": "",
+        "rig_id": "medo11",
         "pool_password": "x",
         "use_nicehash": false,
         "use_tls": false, /* Set to true if you are using an SSL port */
@@ -10,4 +10,4 @@
         "pool_weight": 1
     },
 ],
-"currency": "cryptonight",
+"currency": "rx/sfx",
